@@ -1,3 +1,11 @@
+## Pembuat Project
+
+| Nama        | NPM             |
+|-------------|------------------|
+| Alvia Zuhra | 2208107010003    |
+|Cut Mardilla Agustine | 2208107010083    |
+
+---
 # 🍽️ Sendok Garpu - Aplikasi Resep Masakan Interaktif
 
 **Sendok Garpu** adalah aplikasi Android yang dirancang untuk membantu pengguna menemukan, menonton, dan mengikuti resep masakan secara interaktif. Aplikasi ini menghadirkan pengalaman memasak yang menyenangkan melalui kombinasi video tutorial, deskripsi bahan dan langkah, serta antarmuka pengguna yang bersih dan modern.
