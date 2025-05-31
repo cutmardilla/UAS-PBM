@@ -1,6 +1,21 @@
-# sendok_garpu
+# 🍽️ Sendok Garpu - Aplikasi Resep Masakan Interaktif
 
-A new Flutter project.
+**Sendok Garpu** adalah aplikasi Android yang dirancang untuk membantu pengguna menemukan, menonton, dan mengikuti resep masakan secara interaktif. Aplikasi ini menghadirkan pengalaman memasak yang menyenangkan melalui kombinasi video tutorial, deskripsi bahan dan langkah, serta antarmuka pengguna yang bersih dan modern.
+
+## ✨ Fitur Utama
+
+- 🎥 **Video Tutorial Memasak**  
+  Tonton video resep secara langsung.
+
+- 📜 **Deskripsi Resep Lengkap**  
+  Informasi detail tentang bahan, langkah memasak, dan waktu yang dibutuhkan (prep time, cook time, total time).
+
+- 👨‍🍳 **Profil Pengguna**  
+  Tampilkan profil pengguna dan beri opsi untuk mengikuti akun mereka.
+
+- 💡 **Desain UI Elegan**  
+  Desain antarmuka modern dan ramah pengguna dengan warna yang lembut dan elemen yang konsisten.
+
 
 ## Getting Started
 
